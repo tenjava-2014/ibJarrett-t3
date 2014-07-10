@@ -1,0 +1,3 @@
+name: ibJarrett-t3
+main: com.tenjava.entries.ibJarrett.t3.TenJava
+version: '${project.version}'
